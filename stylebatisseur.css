@@ -18,3 +18,13 @@ h1{
 .para0{
     color: #805959;
 }
+.barre_nav{
+    
+    justify-content:center;
+    display:flex;
+    background-color:black;
+    color: aliceblue;
+    padding: 19px 10px;
+    font-size: 20px;
+    
+}
