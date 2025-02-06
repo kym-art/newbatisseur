@@ -78,7 +78,7 @@ h1{
 }
 /* les styles du services_2 */
 .para6{
-    color:coral;
+    color:inherit;
     opacity: 1;
     font-size: 30px;
     font-style: italic;
