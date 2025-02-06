@@ -1,6 +1,20 @@
+/* TOUS LES CODES HTML PRENNENT LES STYYLES DE LA MEME FEUILLE DE STYLE CSS
+CES DONC LA PAGE SUIVANTES QUI CONTIENT TOUTES LES STYLES 
+YRES IMPORTANT
+REDIGE PAR .KYM KOUYOE MARIUS
+*/
+
+
+/* code css de la page html princi^pal
+
+
+*/
 p{
+
     color: blue;
     font-size: 22px;
+    text-transform: capitalize;
+    font-style: italic;
 }
 h1{
     color: darkmagenta;
@@ -16,15 +30,65 @@ h1{
     font-size: 28;
 }
 .para0{
-    color: #805959;
+    color: #80595989
 }
-.barre_nav{
+/* .barre_nav{
+    
+} */
+.elmt_nav{
+    margin: 10px;
+    display:flex;
     
     justify-content:center;
-    display:flex;
-    background-color:black;
-    color: aliceblue;
-    padding: 19px 10px;
-    font-size: 20px;
+    
+    background-color:aliceblue;
+    padding: 11px 10px;
+    word-spacing: 10px;
+    text-transform: capitalize;
     
 }
+/* styles particulier des element de nav */
+.e1{
+    border-color: aqua;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 3px 3px 3px 3px;
+
+}
+.e2{
+    border-color: aqua;
+    border-width: 4px;
+    border-style: solid;
+    border-radius:  3px 3px 3px 3px; 
+}
+.e3{
+    border-color: aqua;
+    border-width: 4px;
+    border-style: solid;
+    border-radius:  3px 3px 3px 3px;
+}
+.para4{
+    border-width: 5px;
+    border-style:solid;
+    border-color:khaki;
+    font-size: 30px;
+    color: blue;
+    text-transform: capitalize;
+    border-radius: 10px;
+}
+/* les styles du services_2 */
+.para6{
+    color:coral;
+    opacity: 1;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+/* code de la page html 2 :nos services */
+
+
+/* code de la page html 2 :nos realisations */
+
+
+/* code de la page html 2 :a propos de nous */

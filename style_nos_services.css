@@ -1,0 +1,32 @@
+p{
+    color: blue;
+    font-size: 20px;
+    font-style: italic;
+    text-transform: capitalize;
+
+}
+h1{
+    color: darkmagenta;
+    font-size: 35px;
+    font-style: normal;
+    text-transform: capitalize;
+    border-style: solid;
+    border-color: black;
+    border-width: 5Px;
+    border-radius: 10px 10px 10px 10px;
+    justify-content: center;
+}
+.serv_1{
+    font-size: 20px;
+    font-style: normal;
+    text-transform: capitalize;
+    color: brown;
+    font-weight: 900;
+}
+.serv_2{
+    font-size: 20px;
+    font-style: normal;
+    text-transform:uppercase;
+    color: brown;
+    font-weight: 900;
+}
