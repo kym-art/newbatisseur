@@ -67,15 +67,7 @@ h1{
     border-style: solid;
     border-radius:  3px 3px 3px 3px;
 }
-.para4{
-    border-width: 5px;
-    border-style:solid;
-    border-color:khaki;
-    font-size: 30px;
-    color: blue;
-    text-transform: capitalize;
-    border-radius: 10px;
-}
+
 /* les styles du services_2 */
 .para6{
     color:inherit;
@@ -84,7 +76,12 @@ h1{
     font-style: italic;
     font-weight: 600;
     text-transform: capitalize;
+    z-index: 20;
 }
+/* }
+body{
+    background-image: url(1.jpg);
+} */
 /* code de la page html 2 :nos services */
 
 

@@ -1,5 +1,5 @@
 p{
-    color: blue;
+    color:#333;
     font-size: 20px;
     font-style: italic;
     text-transform: capitalize;
@@ -22,6 +22,9 @@ h1{
     text-transform: capitalize;
     color: brown;
     font-weight: 900;
+    padding: 30px 30px 30px 30px;
+    text-decoration: underline;
+    margin: 10px 10px 10px 10px;
 }
 .serv_2{
     font-size: 20px;
@@ -29,4 +32,15 @@ h1{
     text-transform:uppercase;
     color: brown;
     font-weight: 900;
+}
+f1{
+    float: left;
+}
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    text-align: center;   
 }
