@@ -1,0 +1,46 @@
+h1{
+    color: darkmagenta;
+    font-size: 35px;
+    font-style:italic;
+    text-transform: capitalize;
+    border-style: solid;
+    border-color: black;
+    border-width: 5Px;
+    border-radius: 10px 10px 10px 10px;
+    justify-content: center;
+}
+p{
+
+    color:#2c3e50;
+    font-size: 22px;
+    text-transform: capitalize;
+    font-style: italic;
+}
+.para1{
+    color: red;
+}
+.para{
+    color: red;
+}
+.para0{
+    color: darkmagenta;
+    font-size: 35px;
+    font-style:italic;
+    text-transform: capitalize;
+    text-decoration: underline;  
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    text-align: center;
+}
+
+header {
+    background-color: #2c3e50;
+    color: white;
+    padding: 20px;
+}
