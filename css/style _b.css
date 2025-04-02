@@ -16,7 +16,14 @@ header {
     text-transform:capitalize;
     display: flex;
     gap: 150px;
+    border-radius: 30px;
+    border-bottom: brown 4px solid;
     
+}
+header p:hover{
+font-size: 1.2rem;
+font-style: italic;
+color: darkmagenta;
 }
 
 
@@ -85,8 +92,10 @@ img {
     display: block;
     background-color: #2c3e50;
     font-size: 30px;
-    border-radius: 40px,40px;
-    color: white
+    border-radius: 40px;
+    color: white;
+    
+
     
     
     
@@ -116,8 +125,15 @@ img {
     opacity: 1;
     color:#2c3e50;
     font-style: italic;
-    font-size:80px;
+    gap: 50px;
+   
 }
+.para6 li span{
+    font-size:80px;
+    /* display:flex; */
+}
+
+
 footer{
     background-color:#333 ;
     color:#f4f4f4;
