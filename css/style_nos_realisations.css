@@ -40,6 +40,7 @@ header {
     gap: 10rem;
     border-radius: 30px;
     border-bottom: brown 4px solid;
+    height: 3rem;
 }
 img {
     width: 90%;
